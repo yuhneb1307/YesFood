@@ -13,6 +13,10 @@
 		B3A9D23D28CEDBC200386F2E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3A9D22B28CEDBC100386F2E /* ContentView.swift */; };
 		B3A9D23E28CEDBC200386F2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3A9D22C28CEDBC200386F2E /* Assets.xcassets */; };
 		B3A9D23F28CEDBC200386F2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3A9D22C28CEDBC200386F2E /* Assets.xcassets */; };
+		B3A9D24A28CEDD5100386F2E /* foods.json in Resources */ = {isa = PBXBuildFile; fileRef = B3A9D24928CEDD5100386F2E /* foods.json */; };
+		B3A9D24B28CEDD5100386F2E /* foods.json in Resources */ = {isa = PBXBuildFile; fileRef = B3A9D24928CEDD5100386F2E /* foods.json */; };
+		B3A9D24D28CEDDA200386F2E /* Rests.json in Resources */ = {isa = PBXBuildFile; fileRef = B3A9D24C28CEDDA200386F2E /* Rests.json */; };
+		B3A9D24E28CEDDA200386F2E /* Rests.json in Resources */ = {isa = PBXBuildFile; fileRef = B3A9D24C28CEDDA200386F2E /* Rests.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,8 @@
 		B3A9D23128CEDBC200386F2E /* YesFood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YesFood.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3A9D23728CEDBC200386F2E /* YesFood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YesFood.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3A9D23928CEDBC200386F2E /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		B3A9D24928CEDD5100386F2E /* foods.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = foods.json; sourceTree = "<group>"; };
+		B3A9D24C28CEDDA200386F2E /* Rests.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Rests.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +62,7 @@
 			children = (
 				B3A9D22A28CEDBC100386F2E /* YesFoodApp.swift */,
 				B3A9D22B28CEDBC100386F2E /* ContentView.swift */,
+				B3A9D24828CEDBCB00386F2E /* Model */,
 				B3A9D22C28CEDBC200386F2E /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -76,6 +83,15 @@
 				B3A9D23928CEDBC200386F2E /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		B3A9D24828CEDBCB00386F2E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B3A9D24928CEDD5100386F2E /* foods.json */,
+				B3A9D24C28CEDDA200386F2E /* Rests.json */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -158,6 +174,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B3A9D23E28CEDBC200386F2E /* Assets.xcassets in Resources */,
+				B3A9D24D28CEDDA200386F2E /* Rests.json in Resources */,
+				B3A9D24A28CEDD5100386F2E /* foods.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,6 +184,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B3A9D23F28CEDBC200386F2E /* Assets.xcassets in Resources */,
+				B3A9D24E28CEDDA200386F2E /* Rests.json in Resources */,
+				B3A9D24B28CEDD5100386F2E /* foods.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
