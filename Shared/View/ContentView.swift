@@ -1,21 +1,20 @@
 //
 //  ContentView.swift
-//  Shared
+//  YesFood (iOS)
 //
-//  Created by Huy Tran Le Quoc on 12/09/2022.
+//  Created by duc on 13/09/2022.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        ListView()
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        ListView()
     }
 }

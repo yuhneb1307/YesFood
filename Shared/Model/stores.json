@@ -2,9 +2,12 @@
     {
       "id": 1,
       "name": "Arirang BBQ Restaurant",
+      "food": "Korean",
       "imageName": "yuk-hwe",
       "address": "3rd Floor, 2 Dong Khoi Street, Ben Nghe Ward, District 1, Ho Chi Minh City",
       "time": "11:00 - 22:00",
+      "rating": 5.0,
+      "tags": ["On sale"],
       "coordinates":{
           "latitude": 10.773301613672686,
           "longtitude": 106.70626781921256
@@ -13,9 +16,12 @@
     {
       "id": 2,
       "name": "Shin Heritage",
-      "imageName": "yuk-hwe",
+      "food": "Coffee",
+      "imageName": "cafe-latte",
       "address": "13 Nguyen Thiep Street, Ben Nghe Ward, District 1, Ho Chi Minh City",
       "time": "7:30 - 19:00",
+      "rating": 5.0,
+      "tags": ["On sale"],
       "coordinates":{
           "latitude": 10.775174740676396,
           "longtitude": 106.70336367007019
@@ -24,9 +30,12 @@
     {
       "id": 3,
       "name": "Hokkaido Sushi",
-      "imageName": "yuk-hwe",
+      "food": "Japanese",
+      "imageName": "unagi-spicy-roll",
       "address": "40-42 Dong Du Street, Ben Nghe Ward, District 1, Ho Chi Minh City",
       "time": "10:00 - 23:00",
+      "rating": 5.0,
+      "tags": ["On sale"],
       "coordinates":{
           "latitude": 10.776834113047247,
           "longtitude": 106.70487449310298
@@ -35,9 +44,12 @@
     {
       "id": 4,
       "name": "KOI",
-      "imageName": "yuk-hwe",
+      "food": "Milktea",
+      "imageName": "hazelnut-milk-tea",
       "address": "1058 Nguyen Van Linh Street, Tan Phong Ward, District 7, Ho Chi Minh City",
       "time": "8:00 - 22:00",
+      "rating": 5.0,
+      "tags": ["On sale"],
       "coordinates":{
           "latitude": 10.730057983720032,
           "longtitude": 106.70332315092345
@@ -46,9 +58,12 @@
     {
       "id": 5,
       "name": "Pizza Hut",
-      "imageName": "yuk-hwe",
+      "food": "Western",
+      "imageName": "pizza",
       "address": "469 Nguyen Huu Tho Street, Tan Hung Ward, District 7, Ho Chi Minh City",
       "time": "9:00 - 22:00",
+      "rating": 5.0,
+      "tags": ["On sale"],
       "coordinates":{
           "latitude": 10.741240254696782,
           "longtitude": 106.70207677008842
@@ -57,9 +72,12 @@
     {
       "id": 6,
       "name": "Natraj Indian Cuisine",
-      "imageName": "yuk-hwe",
+      "food": "Indian",
+      "imageName": "mutton-biryani",
       "address": "41 Bui Thi Xuan Street, Pham Ngu Lao Ward, District 1, Ho Chi Minh City ",
       "time": "11:00 - 22:00",
+      "rating": 5.0,
+      "tags": ["On sale"],
       "coordinates":{
           "latitude": 10.771418182303519,
           "longtitude": 106.69001081354772
@@ -68,9 +86,12 @@
     {
       "id": 7,
       "name": "Mon Ngon Viet Nam",
-      "imageName": "yuk-hwe",
+      "food": "Vietnamese",
+      "imageName": "bun-bo",
       "address": "43D/9 Ho Van Hue Street, Ward 9, District Phu Nhuan, Ho Chi Minh City ",
       "time": "6:00 - 21:00",
+      "rating": 5.0,
+      "tags": ["On sale"],
       "coordinates":{
           "latitude": 10.802935096582,
           "longtitude": 106.67603256441762
@@ -79,9 +100,12 @@
     {
       "id": 8,
       "name": "Chen Family",
-      "imageName": "yuk-hwe",
+      "food": "Chinese",
+      "imageName": "wonton",
       "address": "197 Ha Ton Quyen Street, Ward 4, District 11, Ho Chi Minh City ",
       "time": "15:00 - 24:00",
+      "rating": 5.0,
+      "tags": ["On sale"],
       "coordinates":{
           "latitude": 10.758363737770619,
           "longtitude": 106.65256391127838
