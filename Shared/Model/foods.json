@@ -4,7 +4,7 @@
       "price": "450,000 VND",
       "imageName": "yuk-hwe",
       "name": "Yuk Hwe",
-      "calories": "528 cal",
+      "cal": "528 cal",
       "info": "Korean Style Raw Beef with Pear, Garlic, Scallion, and Sesame Oil.",
     },
     {
@@ -12,7 +12,7 @@
       "price": "500,000 VND",
       "imageName": "kimchi-jjim",
       "name": "Kimchi Jjim",
-      "calories": "139 cal",
+      "cal": "139 cal",
       "info": "Braised Kimchi with Pork.",
     },
     {
@@ -20,7 +20,7 @@
       "price": "350,000 VND",
       "imageName": "japchae",
       "name": "Japchae",
-      "calories": "350 cal",
+      "cal": "350 cal",
       "info": "Stir-fried Glass Noodles with Vegetables.",
     },
     {
@@ -28,7 +28,7 @@
       "price": "180,000 VND",
       "imageName": "dolsot-bibimbap",
       "name": "Dolsot Bibimbap",
-      "calories": "560 cal",
+      "cal": "560 cal",
       "info": "Korean Fried Rice with Meat Topping and Vegetables in Hot Stone Pot.",
     },
     {
@@ -36,7 +36,7 @@
       "price": "160,000 VND",
       "imageName": "dweji-bulgogi",
       "name": "Dweji Bulgogi",
-      "calories": "205 cal",
+      "cal": "205 cal",
       "info": "Marinated Sliced Pork.",
     },
     {
@@ -44,7 +44,7 @@
       "price": "85,000 VND",
       "imageName": "cafe-latte",
       "name": "Café Latte (Hot/Ice)",
-      "calores": "190 cal",
+      "cal": "190 cal",
       "info": "Espresso with Steamed Milk.",
     },
     {
@@ -52,7 +52,7 @@
       "price": "110,000 VND",
       "imageName": "mocha",
       "name": "Mocha (Hot/Ice)",
-      "calories": "197 cal",
+      "cal": "197 cal",
       "info": "Espresso with Chocolate.",
     },
     {
@@ -60,7 +60,7 @@
       "price": "95,000 VND",
       "imageName": "macchiato",
       "name": "Macchiato",
-      "calories": "200 cal",
+      "cal": "200 cal",
       "info": "Espresso with Small Amount of Foamed Milk.",
       
     },
@@ -69,7 +69,7 @@
       "price": "90,000 VND",
       "imageName": "cold-brew",
       "name": "Cold Brew",
-      "calories": "5 cal",
+      "cal": "5 cal",
       "info": "Chilled coffee made from grounds that have been steeped in room-temperature or cold water for several hours.",
     },
     {
@@ -77,7 +77,7 @@
       "price": "135,000 VND",
       "imageName": "salmon-sashimi",
       "name": "Salmon Sashimi",
-      "calories": "150 cal",
+      "cal": "150 cal",
       "info": "Traditional salmon sashimi, from famous Japanese salmon.",
     },
     {
@@ -85,7 +85,7 @@
       "price": "131,000 VND",
       "imageName": "unagi-spicy-roll",
       "name": "Unagi Spicy Roll",
-      "calories": "120 cal",
+      "cal": "120 cal",
       "info": "Delicious sushi rolls, added a bit of spicy sauce.",
     },
     {
@@ -93,7 +93,7 @@
       "price": "94,000 VND",
       "imageName": "avocado-salad",
       "name": "Avocado Salad",
-      "calories": "90 cal",
+      "cal": "90 cal",
       "info": "Tasty salad mixed with tasty ingredients.",
     },
     {
@@ -101,7 +101,7 @@
       "price": "83,000 VND",
       "imageName": "yasai-tempura",
       "name": "Yasai Tempura",
-      "calories": "130 cal",
+      "cal": "130 cal",
       "info": "Yummy tempura, added extra delicious ingredients.",
     },
     {
@@ -109,7 +109,7 @@
       "price": "117,000 VND",
       "imageName": "yaki-udon",
       "name": "Yaki Udon",
-      "calories": "160 cal",
+      "cal": "160 cal",
       "info": "Original taste of udon, must-try Japanese udon!",
     },
     {
@@ -117,7 +117,7 @@
       "price": "56,000 VND",
       "imageName": "honey-green-tea",
       "name": "Honey Green Tea",
-      "calories": "50 cal",
+      "cal": "50 cal",
       "info": "Good taste of honey, mix with fresh green tea.",
     },
     {
@@ -125,7 +125,7 @@
       "price": "67,000 VND",
       "imageName": "hazelnut-milk-tea",
       "name": "Hazelnut Milk Tea",
-      "calories": "75 cal",
+      "cal": "75 cal",
       "info": "Delicious hazelnut taste!",
     },
     {
@@ -133,7 +133,7 @@
       "price": "67,000 VND",
       "imageName": "caramel-milk-tea",
       "name": "Caramel Milk Tea",
-      "calories": "90 cal",
+      "cal": "90 cal",
       "info": "A bit of sweetness from caramel makes everything better.",
     },
     {
@@ -141,7 +141,7 @@
       "price": "70,000 VND",
       "imageName": "brown-sugar-milk-tea",
       "name": "Brown Sugar Milk Tea",
-      "calories": "95 cal",
+      "cal": "95 cal",
       "info": "Must-try drink, tasty flavor of sugar.",
     },
     {
@@ -149,7 +149,7 @@
       "price": "53,000 VND",
       "imageName": "bubble-black-tea",
       "name": "Bubble Black Tea",
-      "calories": "56 cal",
+      "cal": "56 cal",
       "info": "Original flavor, added more sugar.",
     },
     {
@@ -157,7 +157,7 @@
       "price": "249,000 VND",
       "imageName": "pizza",
       "name": "Double Topping Seafood Pesto Pizza",
-      "calories": "200 cal",
+      "cal": "200 cal",
       "info": "Double Topping Of Seafood (Shrimp, Squids) With Sliced Mushrooms, Our Signature Pesto Sauce, Perfectly Melted Mozzarella Cheese From New Zealand, Topped With Fresh Basil.",
     },
     {
@@ -165,7 +165,7 @@
       "price": "99,000 VND",
       "imageName": "seafood-rice",
       "name": "Fiesta Seafood Rice",
-      "calories": "150 cal",
+      "cal": "150 cal",
       "info": "With Shrimps, Squid And Fresh Vegetables.",
     },
     {
@@ -173,7 +173,7 @@
       "price": "139,000 VND",
       "imageName": "chicken-wings",
       "name": "BBQ Chicken Wings (6 Pcs)",
-      "calories": "300 cal",
+      "cal": "300 cal",
       "info": "Mesmerizing Grilled Chicken Wings With BBQ Flavor.",
     },
     {
@@ -181,7 +181,7 @@
       "price": "89,000 VND",
       "imageName": "crispy-salmon",
       "name": "Crispy Salmon Skin Salad",
-      "calories": "100 cal",
+      "cal": "100 cal",
       "info": "Baby Potato, Ham, Green And Red Capsicum Mixed With Sesame Dressing.",
     },
     {
@@ -189,7 +189,7 @@
       "price": "79,000 VND",
       "imageName": "corn-bacon",
       "name": "Baked Cheesy Corn with Bacon",
-      "calories": "130 cal",
+      "cal": "130 cal",
       "info": "Sweet Corn, Bacon Mixed With Cheesy Mayo And Garlic Butter Grilled With Mozzarella Cheese On Top.",
     },
     {
@@ -197,7 +197,7 @@
       "price": "158,000 VND",
       "imageName": "mutton-biryani",
       "name": "Mutton Biryani",
-      "calories": "150 cal",
+      "cal": "150 cal",
       "info": "Fragrant basmati rice cooked with minced Australian lamb, spices and aromatic herbs.",
     },
     {
@@ -205,7 +205,7 @@
       "price": "140,000 VND",
       "imageName": "fish-curry",
       "name": "Fish Curry",
-      "calories": "140 cal",
+      "cal": "140 cal",
       "info": "Fish cooked with Indian curry gravy.",
     },
     {
@@ -213,7 +213,7 @@
       "price": "110,000 VND",
       "imageName": "gobi-manchurian",
       "name": "Gobi Manchurian",
-      "calories": "180 cal",
+      "cal": "180 cal",
       "info": "Lentils flour coated cauliflowers; shallow fried and cooked with soya sauce, ginger garlic paste.",
     },
     {
@@ -221,7 +221,7 @@
       "price": "55,000 VND",
       "imageName": "gulab-jamun",
       "name": "Gulab Jamun",
-      "calories": "90 cal",
+      "cal": "90 cal",
       "info": "Cottage cheese balls deep fried and marinated in sugar syrup.",
     },
     {
@@ -229,7 +229,7 @@
       "price": "1,175,000 VND",
       "imageName": "wine",
       "name": "Mutton Biryani",
-      "calories": "150 cal",
+      "cal": "150 cal",
       "info": "Fragrant basmati rice cooked with minced Australian lamb, spices and aromatic herbs.",
     },
     {
@@ -237,7 +237,7 @@
       "price": "70,000 VND",
       "imageName": "pho",
       "name": "Pho Bo",
-      "calories": "300 cal",
+      "cal": "300 cal",
       "info": "Traditional Vietnamese food with beef broth, rice noodle and beef.",
     },
     {
@@ -245,7 +245,7 @@
       "price": "20,000 VND",
       "imageName": "banh-mi",
       "name": "Banh Mi",
-      "calories": "200 cal",
+      "cal": "200 cal",
       "info": "Banh mi is a short baguette with thin, crisp crust and soft, airy texture.",
     },
     {
@@ -253,7 +253,7 @@
       "price": "70,000 VND",
       "imageName": "bun-bo",
       "name": "Bun Bo Hue",
-      "calories": "350 cal",
+      "cal": "350 cal",
       "info": "Bun bo hue is greatly admired for its balance of spicy, sour, salty and sweet flavors and the predominant flavor is that of lemon grass.",
     },
     {
@@ -261,7 +261,7 @@
       "price": "65,000 VND",
       "imageName": "bun-cha",
       "name": "Bun Cha",
-      "calories": "250 cal",
+      "cal": "250 cal",
       "info": "Bun cha is from Hanoi which is capital of Viet Nam, a dish of Bun cha will have grilled pork, noodle, and a bowl of dipping sauce.",
     },
     {
@@ -269,7 +269,7 @@
       "price": "50,000 VND",
       "imageName": "bun-rieu",
       "name": "Bun Rieu",
-      "calories": "230 cal",
+      "cal": "230 cal",
       "info": "Bun rieu is one of famous noodle soup in Viet Nam. A bolw of bun rieu will have pork-based broth with tomatoes, onions, dried shrimp, and a crab paste/egg mixture as a topping.",
     },
     {
@@ -277,7 +277,7 @@
       "price": "45,000 VND",
       "imageName": "fried-rice",
       "name": "Chinese Fried Rice",
-      "calories": "270 cal",
+      "cal": "270 cal",
       "info": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat.",
     },
     {
@@ -285,7 +285,7 @@
       "price": "120,000 VND",
       "imageName": "duck",
       "name": "Peking Duck",
-      "calories": "300 cal",
+      "cal": "300 cal",
       "info": "Peking duck is a dish from Beijing (Peking) that has been prepared since the Imperial era. The meat is characterized by its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook.",
     },
     {
@@ -293,7 +293,7 @@
       "price": "70,000 VND",
       "imageName": "kung-pao-chicken",
       "name": "Kung Pao Chicken",
-      "calories": "350 cal",
+      "cal": "350 cal",
       "info": "Kung pao chicken is a popular Chinese restaurant dish of stir-fried chicken, peanuts and vegetables.",
     },
     {
@@ -301,7 +301,7 @@
       "price": "50,000 VND",
       "imageName": "wonton",
       "name": "Wonton Soup",
-      "calories": "200 cal",
+      "cal": "200 cal",
       "info": "Wonton soup is a bouillon-like soup containing cooked, delicate wontons: dumplings filled with pork and/or shrimp mixed with some vegetables, soy sauce and sesame oil.",
     },
     {
@@ -309,7 +309,7 @@
       "price": "10,000 VND",
       "imageName": "spring-roll",
       "name": "Spring Roll",
-      "calories": "120 cal",
+      "cal": "120 cal",
       "info": "Spring roll is a cylindrical casing of rice paper, or sometimes wheat-and-egg dough, filled with a shredded mixture of vegetables and often meat or seafood, served fresh or deep-fried.",
     },
 ]
