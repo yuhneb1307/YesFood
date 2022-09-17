@@ -5,7 +5,9 @@
 //  Created by duc on 12/09/2022.
 //
 
+import Foundation
 import SwiftUI
+import CoreLocation
 
 struct Store : Identifiable, Codable, Hashable{
     var id: Int
@@ -13,6 +15,15 @@ struct Store : Identifiable, Codable, Hashable{
     var image: Image {
         Image(imageName)
     }
+    var coordinates: Coordinates
+    
+    var locationCoordinate: CLLocationCoordinate2D {
+        CLLocationCoordinate2D(
+            latitude: coordinates.latitude,
+            longitude: coordinates.longitude
+        )
+    }
+    
     let type: Food
     let name: String
     let address: String
@@ -24,6 +35,10 @@ struct Store : Identifiable, Codable, Hashable{
         case id, imageName, name, address, time, rating, tags
         case type = "food"
     }
+}
+struct Coordinates: Codable {
+    var latitude: Double
+    var longitude: Double
 }
 
 enum Food: String, Codable, CaseIterable {
@@ -37,6 +52,7 @@ enum Food: String, Codable, CaseIterable {
     case coffee = "Coffee"
     case milktea = "Milktea"
 }
+
 
 
 extension Food {

@@ -17,12 +17,12 @@ struct WaitingView: View {
     var body: some View {
         VStack{
             GifImage("waitinggif")
+                .frame(width: 400, height: 300)
             Text("Your food is preparing")
                 .foregroundColor(.black)
                 .font(.system(size: 36, weight: .bold))
                 .bold()
                 .foregroundColor(.white)
-                .padding(.bottom, 300)
             Text("\(countDownTimer)")
                 .font(.system(size:70, weight: .medium, design: .rounded))
                 .onReceive(timer){ _ in
