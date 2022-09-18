@@ -15,14 +15,6 @@ struct Store : Identifiable, Codable, Hashable{
     var image: Image {
         Image(imageName)
     }
-    var coordinates: Coordinates
-    
-    var locationCoordinate: CLLocationCoordinate2D {
-        CLLocationCoordinate2D(
-            latitude: coordinates.latitude,
-            longitude: coordinates.longitude
-        )
-    }
     
     let type: Food
     let name: String
@@ -36,6 +28,7 @@ struct Store : Identifiable, Codable, Hashable{
         case type = "food"
     }
 }
+
 struct Coordinates: Codable {
     var latitude: Double
     var longitude: Double

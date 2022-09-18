@@ -1,35 +1,37 @@
 //
 //  RestaurantLocationView.swift
-//  YesFood
+//  YesFood (iOS)
 //
-//  Created by Huy Tran on 9/17/22.
+//  Created by Huy Tran on 9/18/22.
 //
 
 import SwiftUI
-import MapKit
-
-struct MapView: View {
-    var coordinate: CLLocationCoordinate2D
+import CoreLocation
+struct RestaurantLocationView: View {
+    var food: Foods
     
-    @State private var region = MKCoordinateRegion()
-
     var body: some View {
-        Map(coordinateRegion: $region)
-            .onAppear {
-                setRegion(coordinate)
+        ZStack {
+            Color.white
+                .edgesIgnoringSafeArea(.all)
+        ScrollView {
+            
+                VStack {
+                    MapView(coordinate: food.locationCoordinate)
+                        .edgesIgnoringSafeArea(.top)
+                        .frame(height: 250)
+                    
+                }
             }
-    }
-    
-    private func setRegion(_ coordinate: CLLocationCoordinate2D) {
-        region = MKCoordinateRegion(
-            center: coordinate,
-            span: MKCoordinateSpan(latitudeDelta: 0.004, longitudeDelta: 0.004)
-        )
+        }
+        .navigationBarTitleDisplayMode(.inline)
+        
     }
 }
 
-struct MapView_Previews: PreviewProvider {
+struct RestaurantLocationView_Previews: PreviewProvider {
     static var previews: some View {
-        MapView(coordinate: CLLocationCoordinate2D(latitude: 34.011_286, longitude: -116.166_868))
+        RestaurantLocationView(food: foods[0])
     }
 }
+

@@ -6,6 +6,10 @@
       "name": "Yuk Hwe",
       "cal": "528 cal",
       "info": "Korean Style Raw Beef with Pear, Garlic, Scallion, and Sesame Oil.",
+      "coordinates":{
+          "latitude": 10.773301613672686,
+          "longtitude": 106.70626781921256
+      }
     },
     {
       "id": 2,
@@ -14,6 +18,10 @@
       "name": "Kimchi Jjim",
       "cal": "139 cal",
       "info": "Braised Kimchi with Pork.",
+      "coordinates":{
+          "latitude": 10.773301613672686,
+          "longtitude": 106.70626781921256
+      }
     },
     {
       "id": 3,
@@ -22,6 +30,10 @@
       "name": "Japchae",
       "cal": "350 cal",
       "info": "Stir-fried Glass Noodles with Vegetables.",
+      "coordinates":{
+          "latitude": 10.773301613672686,
+          "longtitude": 106.70626781921256
+      }
     },
     {
       "id": 4,
@@ -30,6 +42,10 @@
       "name": "Dolsot Bibimbap",
       "cal": "560 cal",
       "info": "Korean Fried Rice with Meat Topping and Vegetables in Hot Stone Pot.",
+      "coordinates":{
+          "latitude": 10.773301613672686,
+          "longtitude": 106.70626781921256
+      }
     },
     {
       "id": 5,
@@ -38,6 +54,10 @@
       "name": "Dweji Bulgogi",
       "cal": "205 cal",
       "info": "Marinated Sliced Pork.",
+      "coordinates":{
+          "latitude": 10.773301613672686,
+          "longtitude": 106.70626781921256
+      }
     },
     {
       "id": 6,
@@ -46,6 +66,10 @@
       "name": "Café Latte (Hot/Ice)",
       "cal": "190 cal",
       "info": "Espresso with Steamed Milk.",
+      "coordinates":{
+          "latitude": 10.775174740676396,
+          "longtitude": 106.70336367007019
+      }
     },
     {
       "id": 7,
@@ -54,6 +78,10 @@
       "name": "Mocha (Hot/Ice)",
       "cal": "197 cal",
       "info": "Espresso with Chocolate.",
+      "coordinates":{
+          "latitude": 10.775174740676396,
+          "longtitude": 106.70336367007019
+      }
     },
     {
       "id": 8,
@@ -62,7 +90,10 @@
       "name": "Macchiato",
       "cal": "200 cal",
       "info": "Espresso with Small Amount of Foamed Milk.",
-      
+      "coordinates":{
+          "latitude": 10.775174740676396,
+          "longtitude": 106.70336367007019
+      }
     },
     {
       "id": 9,
@@ -71,6 +102,10 @@
       "name": "Cold Brew",
       "cal": "5 cal",
       "info": "Chilled coffee made from grounds that have been steeped in room-temperature or cold water for several hours.",
+      "coordinates":{
+          "latitude": 10.775174740676396,
+          "longtitude": 106.70336367007019
+      }
     },
     {
       "id": 10,
@@ -79,6 +114,10 @@
       "name": "Salmon Sashimi",
       "cal": "150 cal",
       "info": "Traditional salmon sashimi, from famous Japanese salmon.",
+      "coordinates":{
+          "latitude": 10.776834113047247,
+          "longtitude": 106.70487449310298
+      }
     },
     {
       "id": 11,
@@ -87,6 +126,10 @@
       "name": "Unagi Spicy Roll",
       "cal": "120 cal",
       "info": "Delicious sushi rolls, added a bit of spicy sauce.",
+      "coordinates":{
+          "latitude": 10.776834113047247,
+          "longtitude": 106.70487449310298
+      }
     },
     {
       "id": 12,
@@ -95,6 +138,10 @@
       "name": "Avocado Salad",
       "cal": "90 cal",
       "info": "Tasty salad mixed with tasty ingredients.",
+      "coordinates":{
+          "latitude": 10.776834113047247,
+          "longtitude": 106.70487449310298
+      }
     },
     {
       "id": 13,
@@ -103,6 +150,10 @@
       "name": "Yasai Tempura",
       "cal": "130 cal",
       "info": "Yummy tempura, added extra delicious ingredients.",
+      "coordinates":{
+          "latitude": 10.776834113047247,
+          "longtitude": 106.70487449310298
+      }
     },
     {
       "id": 14,
@@ -111,6 +162,10 @@
       "name": "Yaki Udon",
       "cal": "160 cal",
       "info": "Original taste of udon, must-try Japanese udon!",
+      "coordinates":{
+          "latitude": 10.776834113047247,
+          "longtitude": 106.70487449310298
+      }
     },
     {
       "id": 15,
@@ -119,6 +174,10 @@
       "name": "Honey Green Tea",
       "cal": "50 cal",
       "info": "Good taste of honey, mix with fresh green tea.",
+      "coordinates":{
+          "latitude": 10.730057983720032,
+          "longtitude": 106.70332315092345
+      }
     },
     {
       "id": 16,
@@ -127,6 +186,10 @@
       "name": "Hazelnut Milk Tea",
       "cal": "75 cal",
       "info": "Delicious hazelnut taste!",
+      "coordinates":{
+          "latitude": 10.730057983720032,
+          "longtitude": 106.70332315092345
+      }
     },
     {
       "id": 17,
@@ -135,6 +198,10 @@
       "name": "Caramel Milk Tea",
       "cal": "90 cal",
       "info": "A bit of sweetness from caramel makes everything better.",
+      "coordinates":{
+          "latitude": 10.730057983720032,
+          "longtitude": 106.70332315092345
+      }
     },
     {
       "id": 18,
@@ -143,6 +210,10 @@
       "name": "Brown Sugar Milk Tea",
       "cal": "95 cal",
       "info": "Must-try drink, tasty flavor of sugar.",
+      "coordinates":{
+          "latitude": 10.730057983720032,
+          "longtitude": 106.70332315092345
+      }
     },
     {
       "id": 19,
@@ -151,6 +222,10 @@
       "name": "Bubble Black Tea",
       "cal": "56 cal",
       "info": "Original flavor, added more sugar.",
+      "coordinates":{
+          "latitude": 10.730057983720032,
+          "longtitude": 106.70332315092345
+      }
     },
     {
       "id": 20,
@@ -159,6 +234,10 @@
       "name": "Double Topping Seafood Pesto Pizza",
       "cal": "200 cal",
       "info": "Double Topping Of Seafood (Shrimp, Squids) With Sliced Mushrooms, Our Signature Pesto Sauce, Perfectly Melted Mozzarella Cheese From New Zealand, Topped With Fresh Basil.",
+      "coordinates":{
+          "latitude": 10.741240254696782,
+          "longtitude": 106.70207677008842
+      }
     },
     {
       "id": 21,
@@ -167,6 +246,10 @@
       "name": "Fiesta Seafood Rice",
       "cal": "150 cal",
       "info": "With Shrimps, Squid And Fresh Vegetables.",
+      "coordinates":{
+          "latitude": 10.741240254696782,
+          "longtitude": 106.70207677008842
+      }
     },
     {
       "id": 22,
@@ -175,6 +258,10 @@
       "name": "BBQ Chicken Wings (6 Pcs)",
       "cal": "300 cal",
       "info": "Mesmerizing Grilled Chicken Wings With BBQ Flavor.",
+      "coordinates":{
+          "latitude": 10.741240254696782,
+          "longtitude": 106.70207677008842
+      }
     },
     {
       "id": 23,
@@ -183,6 +270,10 @@
       "name": "Crispy Salmon Skin Salad",
       "cal": "100 cal",
       "info": "Baby Potato, Ham, Green And Red Capsicum Mixed With Sesame Dressing.",
+      "coordinates":{
+          "latitude": 10.741240254696782,
+          "longtitude": 106.70207677008842
+      }
     },
     {
       "id": 24,
@@ -191,6 +282,10 @@
       "name": "Baked Cheesy Corn with Bacon",
       "cal": "130 cal",
       "info": "Sweet Corn, Bacon Mixed With Cheesy Mayo And Garlic Butter Grilled With Mozzarella Cheese On Top.",
+      "coordinates":{
+          "latitude": 10.741240254696782,
+          "longtitude": 106.70207677008842
+      }
     },
     {
       "id": 25,
@@ -199,6 +294,10 @@
       "name": "Mutton Biryani",
       "cal": "150 cal",
       "info": "Fragrant basmati rice cooked with minced Australian lamb, spices and aromatic herbs.",
+      "coordinates":{
+          "latitude": 10.771418182303519,
+          "longtitude": 106.69001081354772
+      }
     },
     {
       "id": 26,
@@ -207,6 +306,10 @@
       "name": "Fish Curry",
       "cal": "140 cal",
       "info": "Fish cooked with Indian curry gravy.",
+      "coordinates":{
+          "latitude": 10.771418182303519,
+          "longtitude": 106.69001081354772
+      }
     },
     {
       "id": 27,
@@ -215,6 +318,10 @@
       "name": "Gobi Manchurian",
       "cal": "180 cal",
       "info": "Lentils flour coated cauliflowers; shallow fried and cooked with soya sauce, ginger garlic paste.",
+      "coordinates":{
+          "latitude": 10.771418182303519,
+          "longtitude": 106.69001081354772
+      }
     },
     {
       "id": 28,
@@ -223,6 +330,10 @@
       "name": "Gulab Jamun",
       "cal": "90 cal",
       "info": "Cottage cheese balls deep fried and marinated in sugar syrup.",
+      "coordinates":{
+          "latitude": 10.771418182303519,
+          "longtitude": 106.69001081354772
+      }
     },
     {
       "id": 29,
@@ -231,6 +342,10 @@
       "name": "Mutton Biryani",
       "cal": "150 cal",
       "info": "Fragrant basmati rice cooked with minced Australian lamb, spices and aromatic herbs.",
+      "coordinates":{
+          "latitude": 10.771418182303519,
+          "longtitude": 106.69001081354772
+      }
     },
     {
       "id": 30,
@@ -239,6 +354,10 @@
       "name": "Pho Bo",
       "cal": "300 cal",
       "info": "Traditional Vietnamese food with beef broth, rice noodle and beef.",
+      "coordinates":{
+          "latitude": 10.802935096582,
+          "longtitude": 106.67603256441762
+      }
     },
     {
       "id": 31,
@@ -247,6 +366,10 @@
       "name": "Banh Mi",
       "cal": "200 cal",
       "info": "Banh mi is a short baguette with thin, crisp crust and soft, airy texture.",
+      "coordinates":{
+          "latitude": 10.802935096582,
+          "longtitude": 106.67603256441762
+      }
     },
     {
       "id": 32,
@@ -255,6 +378,10 @@
       "name": "Bun Bo Hue",
       "cal": "350 cal",
       "info": "Bun bo hue is greatly admired for its balance of spicy, sour, salty and sweet flavors and the predominant flavor is that of lemon grass.",
+      "coordinates":{
+          "latitude": 10.802935096582,
+          "longtitude": 106.67603256441762
+      }
     },
     {
       "id": 33,
@@ -263,6 +390,10 @@
       "name": "Bun Cha",
       "cal": "250 cal",
       "info": "Bun cha is from Hanoi which is capital of Viet Nam, a dish of Bun cha will have grilled pork, noodle, and a bowl of dipping sauce.",
+      "coordinates":{
+          "latitude": 10.802935096582,
+          "longtitude": 106.67603256441762
+      }
     },
     {
       "id": 34,
@@ -271,6 +402,10 @@
       "name": "Bun Rieu",
       "cal": "230 cal",
       "info": "Bun rieu is one of famous noodle soup in Viet Nam. A bolw of bun rieu will have pork-based broth with tomatoes, onions, dried shrimp, and a crab paste/egg mixture as a topping.",
+      "coordinates":{
+          "latitude": 10.802935096582,
+          "longtitude": 106.67603256441762
+      }
     },
     {
       "id": 35,
@@ -279,6 +414,10 @@
       "name": "Chinese Fried Rice",
       "cal": "270 cal",
       "info": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat.",
+      "coordinates":{
+          "latitude": 10.758363737770619,
+          "longtitude": 106.65256391127838
+      }
     },
     {
       "id": 36,
@@ -287,6 +426,10 @@
       "name": "Peking Duck",
       "cal": "300 cal",
       "info": "Peking duck is a dish from Beijing (Peking) that has been prepared since the Imperial era. The meat is characterized by its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook.",
+      "coordinates":{
+          "latitude": 10.758363737770619,
+          "longtitude": 106.65256391127838
+      }
     },
     {
       "id": 37,
@@ -295,6 +438,10 @@
       "name": "Kung Pao Chicken",
       "cal": "350 cal",
       "info": "Kung pao chicken is a popular Chinese restaurant dish of stir-fried chicken, peanuts and vegetables.",
+      "coordinates":{
+          "latitude": 10.758363737770619,
+          "longtitude": 106.65256391127838
+      }
     },
     {
       "id": 38,
@@ -303,6 +450,10 @@
       "name": "Wonton Soup",
       "cal": "200 cal",
       "info": "Wonton soup is a bouillon-like soup containing cooked, delicate wontons: dumplings filled with pork and/or shrimp mixed with some vegetables, soy sauce and sesame oil.",
+      "coordinates":{
+          "latitude": 10.758363737770619,
+          "longtitude": 106.65256391127838
+      }
     },
     {
       "id": 39,
@@ -311,5 +462,9 @@
       "name": "Spring Roll",
       "cal": "120 cal",
       "info": "Spring roll is a cylindrical casing of rice paper, or sometimes wheat-and-egg dough, filled with a shredded mixture of vegetables and often meat or seafood, served fresh or deep-fried.",
+      "coordinates":{
+          "latitude": 10.758363737770619,
+          "longtitude": 106.65256391127838
+      }
     },
 ]
