@@ -14,18 +14,18 @@ struct RestaurantLocationView: View {
         ZStack {
             Color.white
                 .edgesIgnoringSafeArea(.all)
-        ScrollView {
             
-                VStack {
-                    MapView(coordinate: food.locationCoordinate)
-                        .edgesIgnoringSafeArea(.top)
-                        .frame(height: 250)
-                    
-                }
+            VStack {
+                Text("Lets go and pick up your food")
+                    .foregroundColor(.black)
+                    .font(.system(size: 25, weight: .bold))
+                    .bold()
+                    .foregroundColor(.white)
+                MapView(coordinate: food.locationCoordinate)
+                    .ignoresSafeArea()
             }
+            
         }
-        .navigationBarTitleDisplayMode(.inline)
-        
     }
 }
 
