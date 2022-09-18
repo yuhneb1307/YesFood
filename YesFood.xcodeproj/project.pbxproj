@@ -20,6 +20,9 @@
 		4298468E28D60DE2002D7960 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4298468D28D60DE2002D7960 /* MapView.swift */; };
 		4298468F28D60DE2002D7960 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4298468D28D60DE2002D7960 /* MapView.swift */; };
 		4298469128D710C1002D7960 /* RestaurantLocationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4298469028D710C1002D7960 /* RestaurantLocationView.swift */; };
+		4298469328D72190002D7960 /* FoodListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4298469228D72190002D7960 /* FoodListView.swift */; };
+		4298469528D7220C002D7960 /* FoodRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4298469428D7220C002D7960 /* FoodRow.swift */; };
+		4298469628D7220C002D7960 /* FoodRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4298469428D7220C002D7960 /* FoodRow.swift */; };
 		89C6090428D077F900C10AA9 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89C6090328D077F900C10AA9 /* ListViewModel.swift */; };
 		89C6090628D07F1400C10AA9 /* AppBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89C6090528D07F1400C10AA9 /* AppBarView.swift */; };
 		89C6090828D07F4800C10AA9 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89C6090728D07F4800C10AA9 /* Extensions.swift */; };
@@ -47,6 +50,8 @@
 		4296580628D57F6F00897FC5 /* GifImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifImage.swift; sourceTree = "<group>"; };
 		4298468D28D60DE2002D7960 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		4298469028D710C1002D7960 /* RestaurantLocationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantLocationView.swift; sourceTree = "<group>"; };
+		4298469228D72190002D7960 /* FoodListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodListView.swift; sourceTree = "<group>"; };
+		4298469428D7220C002D7960 /* FoodRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodRow.swift; sourceTree = "<group>"; };
 		89C6090328D077F900C10AA9 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 		89C6090528D07F1400C10AA9 /* AppBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppBarView.swift; sourceTree = "<group>"; };
 		89C6090728D07F4800C10AA9 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
@@ -91,6 +96,8 @@
 				4298468D28D60DE2002D7960 /* MapView.swift */,
 				4298469028D710C1002D7960 /* RestaurantLocationView.swift */,
 				89C6090928D07FB600C10AA9 /* StoreView.swift */,
+				4298469228D72190002D7960 /* FoodListView.swift */,
+				4298469428D7220C002D7960 /* FoodRow.swift */,
 				4296580628D57F6F00897FC5 /* GifImage.swift */,
 				429657F728D4F9A100897FC5 /* FoodDetail.swift */,
 				89C6090B28D0827900C10AA9 /* ListView.swift */,
@@ -264,6 +271,7 @@
 				89C6090828D07F4800C10AA9 /* Extensions.swift in Sources */,
 				89C6090628D07F1400C10AA9 /* AppBarView.swift in Sources */,
 				429657FE28D57EF700897FC5 /* WaitingView.swift in Sources */,
+				4298469528D7220C002D7960 /* FoodRow.swift in Sources */,
 				429657F828D4F9A100897FC5 /* FoodDetail.swift in Sources */,
 				89C6090F28D0839D00C10AA9 /* ContentView.swift in Sources */,
 				B3A9D23A28CEDBC200386F2E /* YesFoodApp.swift in Sources */,
@@ -273,6 +281,7 @@
 				4296580728D57F6F00897FC5 /* GifImage.swift in Sources */,
 				429657EF28D4F97500897FC5 /* Foods.swift in Sources */,
 				429657F228D4F97C00897FC5 /* ModelData.swift in Sources */,
+				4298469328D72190002D7960 /* FoodListView.swift in Sources */,
 				89C6090A28D07FB600C10AA9 /* StoreView.swift in Sources */,
 				89EE8FF728CF7C9700F58241 /* Store.swift in Sources */,
 				89D5D07728D7215200F2F462 /* CartView.swift in Sources */,
@@ -284,6 +293,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4298469628D7220C002D7960 /* FoodRow.swift in Sources */,
 				B3A9D23B28CEDBC200386F2E /* YesFoodApp.swift in Sources */,
 				429657FF28D57EF700897FC5 /* WaitingView.swift in Sources */,
 				4296580828D57F6F00897FC5 /* GifImage.swift in Sources */,
