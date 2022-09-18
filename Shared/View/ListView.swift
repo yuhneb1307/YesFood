@@ -13,7 +13,7 @@ struct ListView: View {
     @State var inputText = ""
     @State var seletedCuisine = Food.all
     @State var isOnSale = false
-    
+    @State var cartView: Bool = true
     var body: some View {
         VStack {
             AppBarView(inputText: $inputText, seletedCuisine: $seletedCuisine, isOnSale: $isOnSale)

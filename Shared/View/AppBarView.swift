@@ -8,11 +8,14 @@
 import SwiftUI
 
 struct AppBarView: View {
+    @State var showcartView = false
+    
     @EnvironmentObject var viewModel: ListViewModel
     @State var showSearchBar = false
     @Binding var inputText: String
     @Binding var seletedCuisine: Food
     @Binding var isOnSale: Bool
+    
     
     var SearchBarView: some View {
         VStack {
@@ -27,7 +30,12 @@ struct AppBarView: View {
     var body: some View {
         VStack {
             HStack {
-                Image(systemName: "ellipsis")
+                Button(action: {
+                    showcartView = true
+                }) {
+                    Image(systemName: "ellipsis")
+                }
+                NavigationLink("", destination: CartView(), isActive: $showcartView)
                 Spacer()
                 
                 if showSearchBar {
